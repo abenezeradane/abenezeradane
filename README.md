@@ -1,8 +1,6 @@
-### Hello <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hello 👋🏿
 
-My name is **<span style="color: #215FA3">Abenezer Adane</span>**, and I'm a **<span style="color: #215FA3">Computer Science Student</span>** at the **<span style="color: #215FA3">University of Maryland</span>**.
-<br><br>
-I am currently a **<span style="color: #215FA3">Software Engineer <a href="https://github.com/uber">@Uber<a></span>**.
+My name is **<span style="color: #215FA3">Abenezer Adane</span>**, and I'm a  a **<span style="color: #215FA3">Software Engineer <a href="https://github.com/uber">@Uber<a></span>**.
 
 #### Skills and Experience
 <p align="left">
